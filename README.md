@@ -24,6 +24,10 @@ Eager to gain hands-on experience and contribute to innovative tech solutions. K
     <td><img src="python.jpg" width="50"/></td>
   </tr>
 </table>
+<img src="c++.png" alt="Logo 1" width="50" style="margin-right: 20px;">
+<img src="html.png" alt="Logo 2" width="50" style="margin-right: 20px;">
+<img src="python.jpg" alt="Logo 3" width="50">
+
 - **Programming Languages**: Python, C++, C, Java, SQL, JavaScript  
 - **Web Development**: HTML/CSS, PHP (XAMPP)  
 - **Database**: MySQL, NoSQL  
