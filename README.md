@@ -16,7 +16,7 @@ Eager to gain hands-on experience and contribute to innovative tech solutions. K
 ---
 
 ## Technical Skills
-<img src="c++.png" alt="Screenshot" width="50"/>   <&nbsp/><&nbsp/><&nbsp/>   <img src="html.png" alt="Screenshot" width="50"/>      <img src="python.jpg" alt="Screenshot" width="50"/>
+<img src="c++.png" alt="Screenshot" width="50" style="margin-right: 20px;"/>      <img src="html.png" alt="Screenshot" width="50" style="margin-right: 20px;"/>      <img src="python.jpg" alt="Screenshot" width="50" style="margin-right: 20px;"/>
 
 - **Programming Languages**: Python, C++, C, Java, SQL, JavaScript  
 - **Web Development**: HTML/CSS, PHP (XAMPP)  
