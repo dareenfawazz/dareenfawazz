@@ -1,72 +1,59 @@
-# 👋 Hi, I'm Dareen Al-Shawamreh
+# Hi there, I'm Dareen! 👋
 
-🎓 Undergraduate Computer Science major at the University of Jordan (2022–2026)  
-📍 Based in Amman, Jordan  
-📧 dareennfawazz@gmail.com  
-📱 +962 796597356  
+[cite_start]I am a motivated **Computer Science Graduate** and **AI & Data Intern** with a focus on building scalable AI-driven applications and full-stack systems. [cite: 5, 16]
 
 ---
 
-## About Me
+### 💻 Tech Stack & Tools
 
-Motivated and detail-oriented Computer Science student with a strong academic record (GPA: 3.41).  
-Skilled in problem-solving, programming, and data analysis, with a solid foundation in software development, algorithms, and system design.  
-Eager to gain hands-on experience and contribute to innovative tech solutions. Known for my work ethic, adaptability, and passion for continuous learning.
+**Languages & Backend**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+[cite_start]![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white) [cite: 32, 41]
 
----
+**Frontend & Design**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+[cite_start]![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) [cite: 31, 41, 42]
 
-## Technical Skills
-
-
-<img src="c++.png" alt="Logo 1" width="50" style="margin-right: 20px;"><img src="html.png" alt="Logo 2" width="50" style="margin-right: 20px;"><img src="python.jpg" alt="Logo 3" width="50">
-
-- **Programming Languages**: Python, C++, C, Java, SQL, JavaScript  
-- **Web Development**: HTML/CSS, PHP (XAMPP)  
-- **Database**: MySQL, NoSQL  
-- **Data Analysis & Visualization**: MATLAB, Microsoft Power BI  
-- **Tools**: Microsoft Office Suite  
-- **Other**: Social media management, fast learning, multitasking
-
----
-
-## Projects
-
-### 🔹 OptiCampus – Software Engineering Project
-- Designed a website to organize university facilities  
-- Features: bookings, updates, analytics, charts  
-- Tech stack: PHP, MySQL, HTML, CSS, JavaScript
-
-### 🔹 Stroke Prediction – Machine Learning Project
-- Developed in Advanced Programming course  
-- Language: Python  
-- Integrated deep learning models for prediction
+**AI & Data**
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![MATLAB](https://img.shields.io/badge/MATLAB-%23ED1967.svg?style=for-the-badge&logo=mathworks&logoColor=white) 
+[cite_start]![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black) [cite: 38, 46]
 
 ---
 
-## Education
+### 🚀 Featured Projects
 
-**University of Jordan**  
-Bachelor of Science in Computer Science  
-📅 2022–2026 | GPA: 3.41 | Expected Graduation: Jan 2026
+#### **EduPortal | [cite_start]Full-Stack School Management System** [cite: 29]
+* **Role:** Team Leader & Backend/Frontend Developer. [cite: 30, 31]
+* [cite_start]**Stack:** React, Node.js, PostgreSQL. [cite: 31, 32]
+* [cite_start]**Key Achievement:** Earned an **A (96)** grade for implementing features like role-based access control, attendance tracking, and reporting. [cite: 32, 33]
 
----
-
-## Soft Skills
-
-- Problem-solving  
-- Team Management & Leadership  
-- Time Management  
-- Adaptability  
-- Effective Communication  
-- Critical Thinking  
-- Teamwork
+#### [cite_start]**AI & Data Analysis (Internship Projects)** [cite: 16]
+* [cite_start]**NLP Job Detector:** Built a Python-based model to identify fake job postings. [cite: 24]
+* **Risk & Regression Models:** Developed loan default classification and employee bonus prediction models. [cite: 25, 26]
+* [cite_start]**Employee Analytics:** Designed an SQL-based analytics database with integrated visualizations. [cite: 27]
 
 ---
 
-## Languages
+### 🎓 Education & Certifications
 
-- English  
-- Arabic (Native)
+* **B.S. in Computer Science** | [cite_start]University of Jordan (GPA: 3.35) [cite: 9, 10, 11]
+* **AWS Academy Graduate** | Cloud Foundations & Data Engineering [cite: 38, 39]
+* **High School Diploma** | [cite_start]Al Manhal International Private School (99.37%) [cite: 12, 13, 14]
 
 ---
 
+### 📫 Connect with Me
+
+* [cite_start]📧 **Email:** [dareennfawazz@gmail.com](mailto:dareennfawazz@gmail.com) [cite: 1]
+* [cite_start]📍 **Location:** Abu Dhabi, UAE / Amman, Jordan [cite: 1, 18, 20]
+* 💼 **LinkedIn:** [Insert your LinkedIn Link Here]
+
+---
+
+### 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
