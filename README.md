@@ -1,59 +1,76 @@
-# Hi there, I'm Dareen! 👋
+<h1 align="center">Hi, I'm Dareen 👋</h1>
 
-[cite_start]I am a motivated **Computer Science Graduate** and **AI & Data Intern** with a focus on building scalable AI-driven applications and full-stack systems. [cite: 5, 16]
-
----
-
-### 💻 Tech Stack & Tools
-
-**Languages & Backend**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-[cite_start]![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white) [cite: 32, 41]
-
-**Frontend & Design**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-[cite_start]![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) [cite: 31, 41, 42]
-
-**AI & Data**
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![MATLAB](https://img.shields.io/badge/MATLAB-%23ED1967.svg?style=for-the-badge&logo=mathworks&logoColor=white) 
-[cite_start]![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black) [cite: 38, 46]
+<p align="center">
+Computer Science Graduate • AI & Data Intern • Full-Stack Developer
+</p>
 
 ---
 
-### 🚀 Featured Projects
+## 💡 About Me
 
-#### **EduPortal | [cite_start]Full-Stack School Management System** [cite: 29]
-* **Role:** Team Leader & Backend/Frontend Developer. [cite: 30, 31]
-* [cite_start]**Stack:** React, Node.js, PostgreSQL. [cite: 31, 32]
-* [cite_start]**Key Achievement:** Earned an **A (96)** grade for implementing features like role-based access control, attendance tracking, and reporting. [cite: 32, 33]
+I’m a Computer Science graduate passionate about building **AI-powered systems**,  
+**data-driven applications**, and **scalable full-stack solutions**.
 
-#### [cite_start]**AI & Data Analysis (Internship Projects)** [cite: 16]
-* [cite_start]**NLP Job Detector:** Built a Python-based model to identify fake job postings. [cite: 24]
-* **Risk & Regression Models:** Developed loan default classification and employee bonus prediction models. [cite: 25, 26]
-* [cite_start]**Employee Analytics:** Designed an SQL-based analytics database with integrated visualizations. [cite: 27]
+I enjoy turning complex problems into simple, clean, and efficient systems.
 
 ---
 
-### 🎓 Education & Certifications
+## 🛠️ Tech Stack
 
-* **B.S. in Computer Science** | [cite_start]University of Jordan (GPA: 3.35) [cite: 9, 10, 11]
-* **AWS Academy Graduate** | Cloud Foundations & Data Engineering [cite: 38, 39]
-* **High School Diploma** | [cite_start]Al Manhal International Private School (99.37%) [cite: 12, 13, 14]
+### Languages & Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### AI & Data
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 
 ---
 
-### 📫 Connect with Me
+## 🚀 Featured Projects
 
-* [cite_start]📧 **Email:** [dareennfawazz@gmail.com](mailto:dareennfawazz@gmail.com) [cite: 1]
-* [cite_start]📍 **Location:** Abu Dhabi, UAE / Amman, Jordan [cite: 1, 18, 20]
-* 💼 **LinkedIn:** [Insert your LinkedIn Link Here]
+### 🏫 EduPortal — School Management System
+- Full-stack web application for academic management  
+- Role-based access control, attendance tracking, reporting system  
+- Built with React, Node.js, PostgreSQL  
+- ⭐ Grade: A (96%)
 
 ---
 
-### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+### 🤖 AI & Data Internship Projects
+- NLP model for detecting fake job postings  
+- Loan default prediction using classification models  
+- Employee performance analytics with SQL dashboards  
+
+---
+
+## 🎓 Education
+
+- 🎓 BSc Computer Science — University of Jordan (GPA: 3.35)  
+- ☁️ AWS Academy Graduate — Cloud Foundations & Data Engineering  
+- 🎓 High School Diploma — 99.37%
+
+---
+
+## 📫 Contact
+
+- 📧 Email: dareennfawazz@gmail.com  
+- 📍 Abu Dhabi, UAE / Amman, Jordan  
+- 💼 LinkedIn: https://linkedin.com/in/your-link  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" />
+</p>
