@@ -72,10 +72,3 @@ Cloud Foundations • Data Engineering
 Email: dareennfawazz@gmail.com  
 LinkedIn: https://linkedin.com/in/your-link  
 
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dareenfawazz&show_icons=true&theme=default&hide_border=true" />
-</p>
