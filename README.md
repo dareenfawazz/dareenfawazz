@@ -1,7 +1,7 @@
 <h1 align="center">Dareen Fawwaz</h1>
 
 <p align="center">
-Computer Science Graduate • AI & Data Engineer • Full-Stack Developer
+Computer Science Graduate 
 </p>
 
 <p align="center">
