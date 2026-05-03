@@ -1,7 +1,7 @@
 <h1 align="center">Dareen Fawwaz</h1>
 
 <p align="center">
-Computer Science Graduate | AI & Data Intern | Full-Stack Developer
+Computer Science Graduate • AI & Data Engineer • Full-Stack Developer
 </p>
 
 <p align="center">
@@ -10,24 +10,36 @@ Abu Dhabi, UAE • Amman, Jordan
 
 ---
 
-## About
+## Overview
 
-Computer Science graduate focused on building **AI-driven systems**,  
-**data analytics solutions**, and **scalable full-stack applications**.
+Computer Science graduate focused on building **AI systems**,  
+**data-driven applications**, and **scalable full-stack platforms**.
 
-I enjoy designing clean, efficient systems that turn data into meaningful impact.
+I specialize in turning real-world problems into clean, efficient software solutions.
 
 ---
 
-## Skills
+## Focus Areas
 
-**Programming & Backend**  
-Python • C++ • Node.js • SQL  
+- AI & Machine Learning Applications  
+- Data Analytics & Engineering  
+- Full-Stack Web Development  
+- Backend System Design  
 
-**Frontend**  
-React • JavaScript • HTML • CSS  
+---
 
-**AI / Data / Cloud**  
+## Tech Stack
+
+**Languages**
+Python • C++ • JavaScript • SQL  
+
+**Frontend**
+React • HTML • CSS  
+
+**Backend & Tools**
+Node.js • Express • PostgreSQL  
+
+**AI / Data / Cloud**
 AWS • Power BI • MATLAB  
 
 ---
@@ -35,22 +47,22 @@ AWS • Power BI • MATLAB
 ## Projects
 
 ### EduPortal — School Management System
-Full-stack academic platform for managing students, attendance, and reporting.
+Full-stack academic platform for managing educational operations.
 
-- Built with React, Node.js, PostgreSQL  
-- Implemented role-based access control system  
-- Developed attendance tracking and reporting modules  
-- Achieved top academic grade (A / 96%)
+- Developed role-based access control system  
+- Built attendance tracking and reporting modules  
+- Designed full-stack architecture (React + Node.js + PostgreSQL)  
+- Delivered as final project with **A (96%) grade**
 
 ---
 
-### AI & Data Internship Work
-Machine learning and data engineering projects focused on real-world problems.
+### AI & Data Internship Projects
+Real-world machine learning and data engineering implementations.
 
-- Fake job posting detection using NLP models  
-- Loan default prediction using classification techniques  
-- Employee analytics system using SQL and dashboards  
-- Built end-to-end data pipelines and visual reports  
+- Built NLP model for fake job posting detection  
+- Developed classification models for loan default prediction  
+- Created SQL-based employee analytics system  
+- Designed dashboards for business insights and reporting  
 
 ---
 
@@ -67,8 +79,23 @@ Cloud Foundations • Data Engineering
 
 ---
 
+## Currently Focused On
+
+- Improving system design skills  
+- Advanced machine learning projects  
+- Building production-level full-stack applications  
+
+---
+
 ## Contact
 
-Email: dareennfawazz@gmail.com  
-LinkedIn: https://www.linkedin.com/in/dareen-alshawamreh-454926378?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+Email: **dareennfawazz@gmail.com**  
+LinkedIn: **linkedin.com/in/dareen-alshawamreh-454926378**
 
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true" />
+</p>
